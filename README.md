@@ -1,5 +1,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sumankathet51&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumankathet51)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - 👋 Hi, I’m Suman Kathet
 - 👀 I’m interested in ...
