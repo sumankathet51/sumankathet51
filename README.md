@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m Suman Kathet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Vuejs, Devops, Database and system design
+- 👀 I’m interested in Learning new technologies and building awesome Projects with those technologies 😉
+- 🌱 I’m currently learning ReactJs, DevOps, Database and system design
 - 📫 How to reach me <a href="https://www.linkedin.com/in/suman-kathet-962423141/">LinkedIn</a>
 
 
