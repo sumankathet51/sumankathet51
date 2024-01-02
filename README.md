@@ -8,17 +8,6 @@ Welcome to my Github profile! I'm an accomplished Software Engineer and Full-Sta
 
 Throughout my career, I have successfully delivered robust and scalable applications, collaborating with cross-functional teams to achieve business objectives. My passion for problem-solving and my commitment to excellence have enabled me to deliver high-quality software solutions that meet and exceed client expectations. 
 
-Here are some highlights of my skills and accomplishments: 
-
-- Full-Stack Development: Proficient in developing end-to-end solutions, from backend architecture design and API development using Laravel, to frontend implementation with Vue.js and React.js.
-- Laravel Expertise: Extensive experience in leveraging Laravel, an industry-leading PHP framework, to build scalable, secure, and maintainable web applications. 
-- Frontend Development: Skilled in creating responsive and intuitive user interfaces using modern JavaScript frameworks like Vue.js and React.js, ensuring seamless user experiences across different devices.
-- SQL and Database Design: Strong understanding of database concepts, with expertise in designing efficient database schemas, optimizing queries, and ensuring data integrity through solid SQL skills.
-- Problem-Solving: Proven track record of identifying complex technical challenges, designing effective solutions, and implementing them on time to enhance performance and efficiency. 
-- Collaboration and Communication: Excellent team player with a strong ability to collaborate with cross-functional teams, including designers, product managers, and QA engineers, to deliver high-quality software solutions. 
-- Continuous Learning: Committed to staying up-to-date with the latest industry trends, frameworks, and technologies, to ensure the adoption of best practices and the delivery of cutting-edge solutions. If you're looking for a software engineer who can bring your ideas to life, optimize your software stack, and deliver exceptional results, let's connect! I am open to exciting opportunities and passionate about creating innovative solutions that drive business success. Feel free to reach out to me on LinkedIn or via email at sumankathet51@gmail.com
-
-
 * 🌍  I'm based in Kathmandu, nepal
 * ✉️  You can contact me at [sumankathet51@gmail.com](mailto:sumankathet51@gmail.com)
 * 🧠  I'm learning Node js
